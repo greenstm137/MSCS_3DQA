@@ -1,0 +1,20 @@
+Patient	Rybalka	ID	18377429716	Machine	TB-118						
+											
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+											
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+T0G160C45	15	7.6	11.4		4.87			1	124.3		
+T0G120C45	15	8.1	11.9		6.21			1	127.8		
+T0G80C135W45	10	11.1	7.2		6.56			1	161.2		
+T0G200C135W45	10	10.9	7.7		4.96			1	155.1		
+											
+											
+											
+											
+											
+											
+								Sum			
+								TPS	492.88		
+								"delta, %"			
