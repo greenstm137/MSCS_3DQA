@@ -2,7 +2,6 @@
 
 #include <string>
 #include <vector>
-#include "Aspose.Cells.h"
 
 using namespace std;
 
