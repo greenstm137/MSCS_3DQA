@@ -16,7 +16,7 @@ int main()
 {
     curline curline_;
     string line;
-    ifstream in("6X.dat");
+    ifstream in("data\\6X.dat");
     std::vector<std::vector<double>> data6x;
     while (!in.eof())
     {
@@ -25,7 +25,7 @@ int main()
         data6x.push_back(curline::GetLineByNumbers(curline_.line));
     }
     in.close();
-    ifstream wedges("EDWF.dat");
+    ifstream wedges("data\\EDWF.dat");
     std::vector<std::vector<double>> wedges_;
     while (!wedges.eof())
     {
