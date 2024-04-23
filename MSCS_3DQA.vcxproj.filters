@@ -26,21 +26,8 @@
     <ClInclude Include="dataReader.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="MSCS_3DQA.rc">
-      <Filter>Файлы ресурсов</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\mscs.ico">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
   </ItemGroup>
 </Project>
